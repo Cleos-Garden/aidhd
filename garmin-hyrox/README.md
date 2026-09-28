@@ -55,7 +55,7 @@ Change these in the Garmin Connect app under the app's settings:
 2. If your watch isn't in the `<iq:products>` list in `manifest.xml`, add it.
 3. In VS Code, run **Monkey C: Build for Device** to put it on your watch over USB, or **Run App** to use the simulator. To build from the command line:
    ```sh
-   monkeyc -f monkey.jungle -d fr265 -o bin/hyrox.prg -y /path/to/developer_key
+   monkeyc -f monkey.jungle -d fr965 -o bin/hyrox.prg -y /path/to/developer_key
    ```
 4. To publish, run **Monkey C: Export Project** and upload the `.iq` file to the Connect IQ Store.
 
