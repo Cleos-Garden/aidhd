@@ -1,0 +1,17 @@
+<resources>
+    <string id="AppName">HYROX</string>
+
+    <string id="TargetTitle">Target finish time (minutes)</string>
+    <string id="RoxzoneTitle">Separate Roxzone laps</string>
+    <string id="RecordAsTitle">Save activity as</string>
+    <string id="RecordIndoorRun">Running (indoor, no GPS)</string>
+    <string id="RecordOutdoorRun">Running (GPS)</string>
+    <string id="RecordCardio">Cardio</string>
+
+    <string id="FitSegment">Segment</string>
+    <string id="FitVsPlan">vs plan</string>
+    <string id="FitTarget">Target time</string>
+    <string id="FitSeconds">s</string>
+    <string id="FitMinutes">min</string>
+    <string id="FitNone"></string>
+</resources>

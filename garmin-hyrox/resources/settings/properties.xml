@@ -1,0 +1,6 @@
+<properties>
+    <property id="targetMinutes" type="number">90</property>
+    <property id="trackRoxzone" type="boolean">true</property>
+    <!-- 0 = indoor run, 1 = outdoor run with GPS, 2 = cardio -->
+    <property id="recordAs" type="number">0</property>
+</properties>

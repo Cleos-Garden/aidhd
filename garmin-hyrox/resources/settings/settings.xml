@@ -1,0 +1,15 @@
+<settings>
+    <setting propertyKey="@Properties.targetMinutes" title="@Strings.TargetTitle">
+        <settingConfig type="numeric" min="30" max="240"/>
+    </setting>
+    <setting propertyKey="@Properties.trackRoxzone" title="@Strings.RoxzoneTitle">
+        <settingConfig type="boolean"/>
+    </setting>
+    <setting propertyKey="@Properties.recordAs" title="@Strings.RecordAsTitle">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.RecordIndoorRun</listEntry>
+            <listEntry value="1">@Strings.RecordOutdoorRun</listEntry>
+            <listEntry value="2">@Strings.RecordCardio</listEntry>
+        </settingConfig>
+    </setting>
+</settings>
